@@ -70,4 +70,4 @@ _Coming soon._
 - Ramadan/Eid weeks and big Saudi releases often overlap, so their effects are hard to separate.
 
 ---
-*By Ghadi · [ghadi.dev](https://ghadi.dev)*
+*By Ghadi *
